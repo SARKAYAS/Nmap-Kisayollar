@@ -89,5 +89,4 @@ Bu örnekte, hedef IP adresinin işletim sistemi tespiti yapılmıştır.
 - Program, **sudo** yetkileri gerektirebilecek komutlar çalıştırabilir.
 - Tarama işlemleri sırasında hedef sistemin güvenlik politikalarını ihlal etmediğinizden emin olun.
 
-```
 
