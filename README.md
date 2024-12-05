@@ -5,19 +5,19 @@ Bu Python uygulaması, NMAP komutlarını kullanıcı dostu bir arayüz ile kull
 
 ## Özellikler
 
-- **Versiyon Taraması:** Servis versiyonlarını detaylı olarak tarar.
-- **Bütün Taramalar:** Hedef üzerinde kapsamlı bilgi toplama.
-- **Tüm Portların Taranması:** Belirli veya tüm portlar üzerinde tarama yapar.
-- **MySQL Bilgi ve Brute Force Taraması:** MySQL'e özel bilgiler toplar ve brute force saldırıları düzenler.
-- **SSL Versiyon Tespiti:** Açık SSL portlarındaki banner bilgilerini toplar.
-- **Güvenlik Açığı Taraması:** Hedefteki bilinen güvenlik açıklarını kontrol eder.
-- **Hızlı ve Belirli Port Taramaları:** Hedef üzerinde belirli veya hızlı taramalar yapar.
-- **İşletim Sistemi Tespiti:** Hedefin işletim sistemini tanımlar.
+ **Versiyon Taraması:** Servis versiyonlarını detaylı olarak tarar.
+ **Bütün Taramalar:** Hedef üzerinde kapsamlı bilgi toplama.
+ **Tüm Portların Taranması:** Belirli veya tüm portlar üzerinde tarama yapar.
+ **MySQL Bilgi ve Brute Force Taraması:** MySQL'e özel bilgiler toplar ve brute force saldırıları düzenler.
+ **SSL Versiyon Tespiti:** Açık SSL portlarındaki banner bilgilerini toplar.
+ **Güvenlik Açığı Taraması:** Hedefteki bilinen güvenlik açıklarını kontrol eder.
+ **Hızlı ve Belirli Port Taramaları:** Hedef üzerinde belirli veya hızlı taramalar yapar.
+ **İşletim Sistemi Tespiti:** Hedefin işletim sistemini tanımlar.
 
 ## Gereksinimler
 
-- **Python 3.x**
-- NMAP yüklü olmalıdır. NMAP kurulu değilse aşağıdaki komutla yükleyebilirsiniz:
+ **Python 3.x**
+ NMAP yüklü olmalıdır. NMAP kurulu değilse aşağıdaki komutla yükleyebilirsiniz:
   ```bash
   sudo apt install nmap
   ```
@@ -84,7 +84,6 @@ Bu örnekte, hedef IP adresinin işletim sistemi tespiti yapılmıştır.
 2. Geliştirmeler yapın ve test edin.
 3. Pull Request gönderin.
 
----
 
 ### Notlar
 - Program, **sudo** yetkileri gerektirebilecek komutlar çalıştırabilir.
