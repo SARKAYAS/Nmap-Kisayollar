@@ -1,4 +1,4 @@
-```markdown
+
 # NMAP Kısayolları ile Tarama Aracı
 
 Bu Python uygulaması, NMAP komutlarını kullanıcı dostu bir arayüz ile kullanmanızı sağlar. Uygulama, sık kullanılan NMAP tarama işlemleri için hazır kısayollar sunar. Bu sayede IP adreslerini hızlı ve etkili bir şekilde analiz edebilirsiniz.
